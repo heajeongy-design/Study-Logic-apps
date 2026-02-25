@@ -86,7 +86,8 @@ convertTimeZone(utcNow(),'UTC','Korea Standard Time','yyyy-MM-dd HH:mm:ss')
 ## 4. Test
 > 수동 실행/트리거 (Run)
 
-<img width="621" height="305" alt="image" src="https://github.com/user-attachments/assets/92ca9239-bb12-4006-972d-0c29174442d4" />
+<img width="622" height="306" alt="image" src="https://github.com/user-attachments/assets/a30b6674-adad-4e73-aea1-32d65ed10e40" />
+
 
 
 
